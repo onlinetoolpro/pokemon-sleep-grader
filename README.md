@@ -1,8 +1,8 @@
 
 
-# Pokemon Sleep Grader
+# Latest Pokemon Sleep Grader
 
-A helpful website that helps you rate and track your Pokemon in the Pokemon Sleep game. It works in many languages and can be used like a phone app.
+I have created A helpful website that helps you rate and track your Pokemon in the Pokemon Sleep game. It works in many languages and can be used like a phone app.
 
 ## ⭐ What Can It Do?
 
@@ -14,13 +14,13 @@ A helpful website that helps you rate and track your Pokemon in the Pokemon Slee
 - Easy to find on Google
 
 ## 🌍 Languages You Can Use
-
-- English
-- Japanese (日本語)
-- French (Français)
-- Spanish (Español)
-- German (Deutsch)
-- Italian (Italiano)
+ 
+- [English](https://pokemonsleepgrader.com/)
+- [Japanese (日本語)](https://pokemonsleepgrader.com/jp.php)
+- [French (Français)](https://pokemonsleepgrader.com/fr.php)
+- [Spanish (Español)](https://pokemonsleepgrader.com/es.php)
+- [German (Deutsch)](https://pokemonsleepgrader.com/de.php)
+- [Italian (Italiano)](https://pokemonsleepgrader.com/it.php)
 
 ## 🔒 Safety Features
 
